@@ -39,9 +39,4 @@ An offline, lightweight malware detection system written in Python that can run 
 ## 🎓 Education
 **Rutgers University - New Brunswick**  
 Bachelor of Science in Computer Science  
-*Expected Graduation: [Your Graduation Year]*
-
-## 🔗 Connect with me
-- 🌐 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE)
-- 💻 [GitHub](https://github.com/chriso13541)
-- 📧 Email: [Your Email - optional]
+*Expected Graduation: 2026
