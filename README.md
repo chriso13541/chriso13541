@@ -1,10 +1,8 @@
-# 👋 Hi, I'm Chris
+Computer Science student at Rutgers University (New Brunswick) with a passion for cybersecurity, automation, and systems administration. I focus on building practical tools that solve real-world problems while continuously strengthening my programming, command-line, and networking skills.
 
-🎓 I'm a Computer Science student at Rutgers University (New Brunswick) with a passion for cybersecurity, automation, and systems administration. I focus on building practical tools that solve real-world problems while continuously strengthening my programming, command-line, and networking skills.
+## Featured Projects
 
-## 🔧 Featured Projects
-
-### 🎶 Music Metadata Generator and Downloader
+### Music Metadata Generator and Downloader
 A comprehensive Python tool that:
 - Fetches YouTube links for songs based on artist/title information
 - Downloads high-quality audio using yt-dlp
@@ -14,7 +12,7 @@ A comprehensive Python tool that:
 
 **Technologies:** `Python`, `yt-dlp`, `mutagen`, `requests`, `BeautifulSoup`, `pandas`, `JSON/CSV processing`
 
-### 🛡️ Portable Virus Scanner
+### Portable Virus Scanner
 An offline, lightweight malware detection system written in Python that can run from USB drives without installation:
 - Implements multiple detection methods: hash-based signatures, pattern-based detection, and archive scanning
 - Recursively scans directories and inspects compressed archives (ZIP, RAR, etc.)
@@ -25,18 +23,18 @@ An offline, lightweight malware detection system written in Python that can run 
 
 **Technologies:** `Python`, `hashlib`, `regex`, `archive handling`, `JSON`, `logging`, `argparse`
 
-## 🛠️ Technical Skills
+## Technical Skills
 - **Languages:** Python, Bash scripting, SQL
 - **Tools:** Git, Linux command line, VMs, Docker basics
 - **Concepts:** Automation, system hardening, networking fundamentals, data parsing
 
-## 📚 Currently Learning
+## Currently Learning
 - AWS Cloud infrastructure (working toward AWS Certified Cloud Practitioner)
 - Linux system administration and security hardening
 - Cybersecurity fundamentals and network defense
 - CI/CD pipelines and DevOps principles
 
-## 🎓 Education
+## Education
 **Rutgers University - New Brunswick**  
 Bachelor of Science in Computer Science  
 *Expected Graduation: 2026
