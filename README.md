@@ -1,5 +1,3 @@
-# I'm a Computer Science student at Rutgers University (New Brunswick)
-
 I'm passionate about **cybersecurity**, **automation**, and **systems administration**, and I focus on building practical tools that solve real-world problems. I enjoy working with Linux, scripting, and backend infrastructure, and I'm constantly pushing myself to learn new technologies and improve my technical skills.
 
 ---
